@@ -1,0 +1,11 @@
+dist
+dist-newstyle
+.direnv
+\#*#
+.*~
+*.swp
+.#*
+TAGS
+.~lock*
+cabal.project.local
+result

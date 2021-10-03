@@ -1,0 +1,38 @@
+{
+    "chronos": {
+        "branch": "master",
+        "description": "Haskell time library focusing on performance ",
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "chronos",
+        "rev": "2b40eb725b99ad68e53975dfe2c2ce0a8f3a21af",
+        "sha256": "10v466b4psncazwqzlp3fi6cjr0m0rjxdkj2lmhrszlmbarlwk6d",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/chronos/archive/2b40eb725b99ad68e53975dfe2c2ce0a8f3a21af.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "master",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "NixOs",
+        "repo": "nixpkgs",
+        "rev": "2b54954fdb4a25c6f9cf80cfd36c43e4c4577c0b",
+        "sha256": "1sn4az6xc2ag23pnxhh8dbgxnk757d5d63spnv93bnls9k3d9vrg",
+        "type": "tarball",
+        "url": "https://github.com/NixOs/nixpkgs/archive/2b54954fdb4a25c6f9cf80cfd36c43e4c4577c0b.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "yahp": {
+        "branch": "main",
+        "description": "yet another Haskell prelude",
+        "homepage": null,
+        "owner": "mxgr7",
+        "repo": "yahp",
+        "rev": "48343d02dfb4ba6d1ba94aec514476fbc0bc9c2f",
+        "sha256": "109qw4sa7gpy4isa555kxwc4ama3fz3rm5a8f8n9immawvlmfl1h",
+        "type": "tarball",
+        "url": "https://github.com/mxgr7/yahp/archive/48343d02dfb4ba6d1ba94aec514476fbc0bc9c2f.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
